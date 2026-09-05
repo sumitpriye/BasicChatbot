@@ -1,0 +1,8 @@
+langgraph
+langchain
+dotenv
+typing
+langchain-core
+langchain-huggingface
+langchain_ollama
+streamlit

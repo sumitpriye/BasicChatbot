@@ -1,0 +1,6 @@
+.env
+myenv/
+test.py
+.vscode
+*.pdf
+__pycache__
