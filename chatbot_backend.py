@@ -1,6 +1,6 @@
 from langgraph.graph import StateGraph, START, END
 from typing import TypedDict, Annotated
-from langchain_core.messages import BaseMessage, HumanMessage
+from langchain_core.messages import BaseMessage
 from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
 from langgraph.graph.message import add_messages
 from langchain_huggingface import ChatHuggingFace, HuggingFaceEndpoint
