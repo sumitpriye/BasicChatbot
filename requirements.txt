@@ -6,3 +6,4 @@ langchain-core
 langchain-huggingface
 langchain_ollama
 streamlit
+langgraph-checkpoint-sqlite
